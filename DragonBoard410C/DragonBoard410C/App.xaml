@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="DragonBoard410C.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DragonBoard410C"
+    RequestedTheme="Light">
+
+</Application>
